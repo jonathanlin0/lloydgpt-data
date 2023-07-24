@@ -40,21 +40,23 @@ Lloyd is with the other undergraduate houses on the southeast corner of campus. 
 
 The Fleming cannon fires once after rotation, once at the end of winter term, and once at the end of spring term.
 
-During rotation, first year students get to meet members of each house, participate in house activities that showcase their unique cultures (dinners, desserts, and big events), and then rank the houses according to their preferences in the End-of-Rotation Form. If students do not wish to affiliate with a house, they are also able to opt out of the House System in the End-of-Rotation Form. After rotation, students may also affiliate with a house by getting to know the members and individually seeking membership through that house's membership process. Rotation is available only during the first year and cannot be deferred, whereas the individual house membership process is available throughout a student's career. Students who opt for membership in one of the houses may live in the house or may live in the Bechtel residence. If you choose not to be a member of a house, Caltech will ensure that you have housing in one of our unaffiliated housing options, most often Bechtel. For more information about Rotation, please visit ihc.caltech.edu/rotation
+During rotation, first year students get to meet members of each house, participate in house activities that showcase their unique cultures (dinners, desserts, and big events), and then rank the houses according to their preferences in the End-of-Rotation Form. If students do not wish to affiliate with a house, they are also able to opt out of the House System in the End-of-Rotation Form. After rotation, students may also affiliate with a house by getting to know the members and individually seeking membership through that house's membership process.
+
+Rotation is available only during the first year and cannot be deferred, whereas the individual house membership process is available throughout a student's career. Students who opt for membership in one of the houses may live in the house or may live in the Bechtel residence. If you choose not to be a member of a house, Caltech will ensure that you have housing in one of our unaffiliated housing options, most often Bechtel. For more information about Rotation, please visit ihc.caltech.edu/rotation
 
 The cannon (Flemming Cannon) fires blanks.
 
 ## Dining Halls and Cafes
 
-Open Kitchen is open on weekdays from 7:00 to 10:30 and 15:00 to 19:00.
+Open Kitchen is open on weekdays from 7:00 am to 10:30 am and 3:00 pm to 7:00 pm.
 
-Red door is open on weekdays from 0:00 to 2:00 and 8:30 to 23:59. Red Door is open on weekends from 0:00 to 2:00 and 15:00 to 23:59.
+Red door is open on weekdays from 12:00 am to 2:00 am and 8:30 am to 11:59 pm. Red Door is open on weekends from 12:00 am to 2:00 am and 3:00 pm to 11:59 pm.
 
-On weekdays, chandler is open from 7:00 to 10:30 and 11:00am to 15:30 and 17:00 to 19:00. On weekends, Chandler is open from 9:00 to 15:00.
+On weekdays, chandler is open from 7:00 am to 10:30 am and 11:00am to 3:30 pm and 5:00 pm to 7:00 pm. On weekends, Chandler is open from 9:00 am to 3:00 pm.
 
-Broad is open from 7:30 to 10:30 and 11:00 to 14:30 on weekdays. Broad is not open on weekends.
+Broad is open from 7:30 am to 10:30 am and 11:00 am to 2:30 am on weekdays. Broad is not open on weekends.
 
-House dinner is at 18:25 on weekdays.
+House dinner is at 6:25 on weekdays.
 
 ## Lloyd Government (excomm) and other House Positions
 
@@ -80,15 +82,15 @@ PA's or peer advocates are active members of the house who are trained through a
 
 The following libraries are open to students at Caltech: Sherman Fairchild Library, Cahill Library, Caltech Hall, Dabney Library, Geology Library.
 
-The Sherman Fairchild Library is open 24 hours a day on weekdays. The Sherman Fairchild Library is open from 13:00 to 21:00 on weekends.
+The Sherman Fairchild Library is open 24 hours a day on weekdays. The Sherman Fairchild Library is open from 1:00 pm to 9:00 pm on weekends.
 
-The Cahill Library is open from 8:00 to 17:00 everyday.
+The Cahill Library is open from 8:00 am to 5:00 pm everyday.
 
-The Caltech Hall library is open from 8:00 to 23:00 on weekdays. It is closed on weekends.
+The Caltech Hall library is open from 8:00 am to 11:00 pm on weekdays. It is closed on weekends.
 
-The Dabney Library is open from 8:00 to 17:00 on weekdays. It is closed on weekends.
+The Dabney Library is open from 8:00 am to 5:00 pm on weekdays. It is closed on weekends.
 
-The Geology Library is open from 8:00 to 17:00 on weekdays. It is closed on weekends.
+The Geology Library is open from 8:00 am to 5:00 pm on weekdays. It is closed on weekends.
 
 ## Facility Questions
 
@@ -98,7 +100,7 @@ Fill out a facilities request for pest control through access.caltech if there a
 
 Check the availability on the shed scheduling form on the resources page if you want to reserve the shed. The shed has a projector and is great for movies or game nights with friends.
 
-The Braun Athletic Center (also known as the Braun gym or just Braun) is open on weekdays from 6:00 to 22:00 and open on weekends from 10:00 to 18:00.
+The Braun Athletic Center (also known as the Braun gym or just Braun) is open on weekdays from 6:00 am to 10:00 pm and open on weekends from 10:00 am to 6:00 pm.
 
 ## Financial Questions
 

@@ -117,3 +117,7 @@ If you have a social membership with Lloyd, then you must pay \$40 a term. If yo
 If you don't pay for a term, you cannot attend the major event the term after (camping trip, ski trip, and beach trip). If you do not pay two terms in a row, your membership with Lloyd will be dropped.
 
 Sometimes, we reimburse you through the Lloyd PTA, which means we fill out a ticket, and Caltech has to approve it and send you the reimbursement. This can take up to a week or two. But you can send a reminder to the treasurer just in case they forgot to submit the reimbursement!
+
+## Personal data about people
+
+Jonathan Lin is a rising sophomore at Caltech studying Computer Science. He is originally from Texas.

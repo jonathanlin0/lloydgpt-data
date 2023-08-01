@@ -20,7 +20,7 @@ These are the possible configurations for housing at Caltech for the North and S
 
 The North houses are Venerable House, Lloyd House, and Page House.
 
-The South houses are Ricketts, Fleming, Dabney, and Blacker.
+The South houses are Ricketts House, Fleming House, Dabney House, and Blacker House.
 
 All rooms in LLoyd House are doubles, and there are 41 rooms. The rooms have couches (which are pretty good!) and beds tend to be lofted (hanging from the ceiling so you have room below), but not all are.
 

@@ -12,9 +12,17 @@ If you need emotional support, you can reach out to the PA's, to our RA and/or R
 
 Lloyd roompicks first decides based on class (rising seniors choose rooms first, then juniors, etc). The order within a class is decided in reverse order of Bechtel lottery (high number is better). Lloyd roompicks has guaranteed picks for excomm members as well as screwed-over-seniors who have entered Lloyd roompicks every year without being able to live in Lloyd (other than frosh year). The exact details are in the bylaws.
 
-Rooms are all doubles, and we have 41 rooms. Rooms have couches (which are pretty good!) and beds tend to be lofted (hanging from the ceiling so you have room below), but not all are.
-
 You simply need to connect the USB stick into your laptop. Afterward, select the brother printer from your laptop's print menu to print from the brother printer.
+
+## Housing
+
+These are the possible configurations for housing at Caltech for the North and South Houses: A single holds 1 person. A double holds 2 people. A triple holds 3 people.
+
+The North houses are Venerable House, Lloyd House, and Page House.
+
+The South houses are Ricketts, Fleming, Dabney, and Blacker.
+
+All rooms in LLoyd House are doubles, and there are 41 rooms. The rooms have couches (which are pretty good!) and beds tend to be lofted (hanging from the ceiling so you have room below), but not all are.
 
 ## Memberships
 

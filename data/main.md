@@ -14,12 +14,7 @@ Lloyd roompicks first decides based on class (rising seniors choose rooms first,
 
 You simply need to connect the USB stick into your laptop. Afterward, select the brother printer from your laptop's print menu to print from the brother printer.
 
-Your mom's phone number is 877-366-6750
-Your dad's phone number is 877-366-6750
-Your mom's email address is ladonor@cryobank.com
-Your dad's email address is ladonor@cryobank.com
-Your mom's house is at 11915 La Grange Ave Los Angeles, CA 90025
-Your dad's house is at 11915 La Grange Ave Los Angeles, CA 90025
+A house tour is an event where students go around campus and take a shot at every house.
 
 ## Housing
 

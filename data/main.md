@@ -128,6 +128,20 @@ If you don't pay for a term, you cannot attend the major event the term after (c
 
 Sometimes, we reimburse you through the Lloyd PTA, which means we fill out a ticket, and Caltech has to approve it and send you the reimbursement. This can take up to a week or two. But you can send a reminder to the treasurer just in case they forgot to submit the reimbursement!
 
+## Rotation Algorithm
+
+The algorithm we are running is a convex penalty algorithm which works in the following manner:
+
+Each first-year student submits an ordered ranking of residences (8 houses and Bechtel). They can only have one first choice, though they may tie subsequent residences. However, their ranking must always be ordinal. For example, a student may rank Booty House first and tie all of the other houses for second. They may not rank Booty House first and tie all of the other houses for ninth. First-year students may elect to receive a house membership for the event if their assigned first year residence is Bechtel.
+
+The Rotation Concerns Committee (RCC, comprised of a dean, the ORE director, the director of Residential Experience, the ADA coordinator, the CCID director, and the IHC Chair) will go through all concerns (including ADA needs) and place students in rooms. The RCC will do the best it can to respect house wishes. The algorithm is run for the remaining students in two stages:
+
+Students will be sorted using a convex penalty algorithm. The algorithm overall works to minimize the total penalty. The penalty is calculated by squaring the prefrosh ranking of the house they end up in. There are also some additional conditions the algorithm takes into consideration in producing a final solution
+
+The algorithm also accounts for gender inclusivity, gender balance, and maximizing the % each house fills.
+
+The IHC and VPSA will choose between the remaining choices in a closed meeting.
+
 ## Personal data about people
 
 Jonathan Lin is a rising sophomore at Caltech studying Computer Science. He is originally from Texas.

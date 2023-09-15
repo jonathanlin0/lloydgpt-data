@@ -142,6 +142,117 @@ The algorithm also accounts for gender inclusivity, gender balance, and maximizi
 
 The IHC and VPSA will choose between the remaining choices in a closed meeting.
 
+## Lloyd Rotation Data
+
+The events in Lloyd are as follows:
+Lloyd goes on three big trips throughout the year. Camping trip is in the fall, ski trip is in the
+winter and beach trip is in the spring. This fall, camping trip is the night of October 14th. Ski trip
+is a 2 night trip to Mammoth in early January. Many Lloydies ski, while others explore the
+surrounding towns and activities, including shopping, mini golf, bowling and hot springs.
+
+Lloyd llights is an event which occurs in November in which Lloydies climb to the top of caltech
+hall and drape down giant bright lights spelling Lloyd on the tower. The Lloyd Llights illuminate
+the olive walk throughout the entire holiday season🎉
+
+Alley Ollympics is an event in which the alleys compete against each other in various games
+and challenges in order to win a prize. Alleys also can do 1 on 1 alley competitions in which the
+winning alley will often take the losing alley’s alley item.
+
+There are also many other fun smaller events that Lloyd puts on that are TOP SECRET, so I
+can’t tell you about those just yet.
+The Lloyd rotation event is:
+Lloyd will be hosting Capture the Flag and Milkshakes on Saturday night, September 23rd from
+11:59pm to 1:59am. Be sure to pull up for a super fun game of capture the flag and delicious
+homemade milkshakes!!
+
+The Lloyd Lunch/Dinner Schedule for Rotation:
+Rotation Dinner on Wednesday 9/20, and reception at 6:00 pm and dinner time at 6:30 pm.
+Rotation Dinner on Thursday 9/21, and reception at 6:00 pm and dinner time at 6:30 pm.
+Rotation Dinner on Friday 9/22, and reception at 6:00 pm and dinner time at 6:30 pm.
+Rotation Lunch on Saturday 9/23, and reception at 1:15 pm and lunch time at 1:45 pm.
+Rotation Dinner on Saturday 9/23, and reception at 5:45 pm and dinner time at 6:15 pm.
+Rotation Lunch on Sunday 9/24, and reception at 1:15 pm and lunch time at 1:45 pm.
+Rotation Dinner on Sunday 9/24, and reception at 6:00 pm and dinner time at 6:30 pm.
+Rotation Dinner on Monday 9/25, and reception at 6:15 pm and dinner time at 6:45 pm.
+Rotation Dinner on Tuesday 9/26, and reception at 6:15 pm and dinner time at 6:45 pm.
+Rotation Dinner on Wednesday 9/27, and reception at 6:15 pm and dinner time at 6:45 pm.
+
+
+House rankings are due by 10:00 pm on Wednesday, September 27th. Make sure to get them in
+on time!
+
+Rotating students will learn of their new houses when the cannon fires at 5:00pm on Saturday,
+September 30th.
+
+There are seven alleys in Lloyd: Tropic, Inferno, Valhalla, Purple, Kaos, VI, and Fingals. There is
+another alley next to Valhalla named Dead alley, which is home to the Llibrary and the Shed.
+Some common things that Lloydies do for fun are:
+
+Lloyd is a very diverse house with people who have every interest. Lloydies commonly will
+gather to watch all types of movies and shows in the shed, our own little movie room. Lloydies
+play lots of pool, ping pong, chess/bughouse and Nintendo switch games such as Super Smash
+Bros and more. We have people playing these games at all levels, from beginners to people
+competing in national competitions. One Lloydie even developed an elo ranking system for the
+more competitive ping pong players in the house, and ‘Elo Nights’ and ping pong tournaments
+are common. Many Lloydies are on the Caltech varsity sports teams, and even more enjoy
+playing in recreational leagues and interhouse sports. In fact, the Sunday league soccer team
+Beaver Ballers FC was founded by a group of Lloydies. Lloydies love to hang out in common
+areas such as lower crotch, commonly called LC.
+
+Lloyd house dinners rules are as follows:
+Lloyd dinners are waited. If you would like more of a food item or drink simply raise your
+glass/plate and a waiter will come by. For drinks, waiters can make any drink you could possibly
+ask for. For example, a ‘rainbow road’ is a common drink request. Students can throw dry bread
+if they are given permission to do so from a waiter. Students can not throw any other food or
+drink, and if they do they may be kicked out of dinner. Students may not hit any waiters with
+bread that they are throwing. If any Lloydies are caught breaking the dinner rules, they will be
+on the list to be floated. Rotating students can not be floated, so if they break the rules, the
+Lloydie sitting to their left will be placed on the list to be floated. Being floated is a completely
+opt-in decision, and any student can choose to not be floated on any given day, regardless of
+the list.
+
+Lloyd house was founded in 1960 and is named after Ralph B. Lloyd and Lulu Hull Lloyd. The
+house color is gold, and its motto is “I llive and die for those I llove”. Lloydies commonly put
+double ls on the names of things. For example, the Lloyd library is called the Llibrary, the lounge
+is called the llounge etc.
+
+Lloyd house has 41 rooms, all of which are doubles. The majority of rooms have beds which are
+lofted, in which the beds are lifted into the air in order to create more rooms for desks and
+couches. Lloyd house is the only house which can boast that every room comes with a couch.
+There are 6 bathrooms in Lloyd house, a men’s, women’s and gender neutral bathroom is on
+each floor. Lloyd house is two stories, and is conveniently shaped like an L so you can never get
+lost.
+
+The laundry room is in the basement of Lloyd house, in the passageways which connect all of
+the north houses. This laundry room is shared with the other north houses, Page and
+Venerable.
+
+The shed is a movie room on the first floor of Lloyd in dead alley. Lloydies commonly use this
+room to host watch parties of movies, tv shows, sports games, and more!
+
+When it is a lloydie’s birthday, the LASR of the lloydie will run around the house screaming
+“BIRTHDAY IN LC”. Then, lloydies will congregate in LC, where the birthday person is sitting,
+and they will wish the birthday person a
+“HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAApy Birthday” and everybody will eat a cake.
+Every Thursday at house dinner, Rant Night happens. In this, lloydies are given the free reign to
+rant to their fellow lloydies about their day/week/year/life to get all of that stress out.
+Lloydcoin is the premier cryptocurrency on the market, soon to overtake bitcoin as the future of
+all of crypto🤑
+
+Lloyd is a north house, along with Page and Venerable.
+For support in all of the houses, there are Peer Advocates (PAs), student leaders who are
+trained in listening skills and addressing mental health issues, Health Advocates (Health Ads),
+student leaders who are trained in mental and physical health, including emergency first aid,
+Title IX Advocates (Title IX Ads), student leaders who are trained in addressing and helping
+students through title IX situations.
+
+In Lloyd specifically, there are also Lloyd Alley Support Representatives (LASRs). A LASR is a designated upperclassman that any member of the alley can go to for support, guidance, information, or a general friendly face in a new environment. Additionally, many social activities in Lloyd are run on an alley by alley basis, and are thus run
+by the LASRs as well.
+
+The Lloyd House instagram is @house.lloyd and the Lloyd House website is lloyd.caltech.edu
+
 ## Personal data about people
 
 Jonathan Lin is a rising sophomore at Caltech studying Computer Science. He is originally from Texas.

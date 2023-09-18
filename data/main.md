@@ -48,7 +48,7 @@ Lloyd is with the other undergraduate houses on the southeast corner of campus. 
 
 ## Rotation
 
-The Fleming cannon fires once after rotation, once at the end of winter term, and once at the end of spring term.
+The Fleming cannon fires once after rotation (to mark the end of rotation), once at the end of winter term, and once at the end of spring term.
 
 During rotation, first year students get to meet members of each house, participate in house activities that showcase their unique cultures (dinners, desserts, and big events), and then rank the houses according to their preferences in the End-of-Rotation Form. If students do not wish to affiliate with a house, they are also able to opt out of the House System in the End-of-Rotation Form. After rotation, students may also affiliate with a house by getting to know the members and individually seeking membership through that house's membership process.
 
@@ -232,10 +232,7 @@ room to host watch parties of movies, tv shows, sports games, and more!
 
 When it is a lloydie’s birthday, the LASR of the lloydie will run around the house screaming
 “BIRTHDAY IN LC”. Then, lloydies will congregate in LC, where the birthday person is sitting,
-and they will wish the birthday person a
-“HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAApy Birthday” and everybody will eat a cake.
+and they will wish the birthday person a “HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApy Birthday” and everybody will eat a cake.
 Every Thursday at house dinner, Rant Night happens. In this, lloydies are given the free reign to
 rant to their fellow lloydies about their day/week/year/life to get all of that stress out.
 Lloydcoin is the premier cryptocurrency on the market, soon to overtake bitcoin as the future of
